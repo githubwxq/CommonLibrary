@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="url">
+        <item>http://ww4.sinaimg.cn/large/006uZZy8jw1faic1xjab4j30ci08cjrv.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/006uZZy8jw1faic21363tj30ci08ct96.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/006uZZy8jw1faic259ohaj30ci08c74r.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/006uZZy8jw1faic2b16zuj30ci08cwf4.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/006uZZy8jw1faic2e7vsaj30ci08cglz.jpg</item>
+    </array>
+
+    <array name="url1">
+        <item>http://img.zcool.cn/community/01700557a7f42f0000018c1bd6eb23.jpg</item>
+    </array>
+    <array name="url2">
+        <item>http://img.zcool.cn/community/01d28457d621800000018c1bb7877e.jpg</item>
+        <item>http://img.zcool.cn/community/01ae5656e1427f6ac72531cb72bac5.jpg</item>
+    </array>
+    <array name="url4">
+        <item>http://img.zcool.cn/community/01b72057a7e0790000018c1bf4fce0.png</item>
+        <item>http://img.zcool.cn/community/01fca557a7f5f90000012e7e9feea8.jpg</item>
+        <item>http://img.zcool.cn/community/01996b57a7f6020000018c1bedef97.jpg</item>
+        <item>http://img.zcool.cn/community/01700557a7f42f0000018c1bd6eb23.jpg</item>
+    </array>
+    <array name="title">
+        <item>51巅峰钜惠</item>
+        <item>十大星级品牌联盟，全场2折起</item>
+        <item>生命不是要超越别人，而是要超越自己。</item>
+        <item>己所不欲，勿施于人。——孔子</item>
+        <item>嗨购5折不要停</item>
+    </array>
+    <array name="demo_list">
+        <item>banner动画预览</item>
+        <item>banner内置样式预览</item>
+        <item>banner指示器位置设置预览</item>
+        <item>banner一些自定义样式方法预览</item>
+        <item>banner加载本地图片</item>
+        <item>！！banner更多用法请看文档，这里就不一一列举了！</item>
+    </array>
+    <array name="anim">
+        <item>Default</item>
+        <item>Accordion</item>
+        <item>BackgroundToForeground</item>
+        <item>ForegroundToBackground</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>DepthPage</item>
+        <item>FlipHorizontal</item>
+        <item>FlipVertical</item>
+        <item>RotateDown</item>
+        <item>RotateUp</item>
+        <item>ScaleInOut</item>
+        <item>Stack</item>
+        <item>Tablet</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>ZoomOutSlide</item>
+    </array>
+    <string-array name="style">
+        <item>NOT_INDICATOR</item>
+        <item>CIRCLE_INDICATOR</item>
+        <item>NUM_INDICATOR</item>
+        <item>NUM_INDICATOR_TITLE</item>
+        <item>CIRCLE_INDICATOR_TITLE</item>
+        <item>CIRCLE_INDICATOR_TITLE_INSIDE</item>
+    </string-array>
+    <string-array name="indicator">
+        <item>LEFT</item>
+        <item>CENTER</item>
+        <item>RIGHT</item>
+    </string-array>
+
+    <string-array name="default_smiley_texts">
+        <item>[冷汗]</item>
+        <item>[奸笑]</item>
+        <item>[难过]</item>
+        <item>[露牙]</item>
+        <item>[小样]</item>
+        <item>[折磨]</item>
+        <item>[囧]</item>
+        <item>[酣睡]</item>
+        <item>[调皮]</item>
+        <item>[微笑]</item>
+        <item>[惊讶]</item>
+        <item>[闭嘴]</item>
+        <item>[晕]</item>
+        <item>[不屑]</item>
+        <item>[尴尬]</item>
+        <item>[大吼]</item>
+        <item>[大哭]</item>
+        <item>[激动]</item>
+        <item>[擦汗]</item>
+        <item>[害羞]</item>
+        <item>[憨笑]</item>
+        <item>[发怒]</item>
+        <item>[亲亲]</item>
+        <item>[飞吻]</item>
+        <item>[可爱]</item>
+        <item>[开心]</item>
+        <item>[爱心]</item>
+        <item>[心碎]</item>
+        <item>[星心]</item>
+        <item>[桃心]</item>
+
+
+        <item>[蓝心]</item>
+        <item>[绿心]</item>
+        <item>[黄心]</item>
+        <item>[紫心]</item>
+        <item>[星星]</item>
+        <item>[月亮]</item>
+        <item>[太阳]</item>
+        <item>[恶魔]</item>
+        <item>[可爱水母]</item>
+        <item>[虎]</item>
+
+
+        <item>[熊]</item>
+        <item>[狗]</item>
+        <item>[鼠]</item>
+        <item>[鸟]</item>
+        <item>[蓝鲸]</item>
+        <item>[鱼]</item>
+        <item>[马]</item>
+        <item>[看看]</item>
+        <item>[便便]</item>
+        <item>[滑翔]</item>
+
+
+        <item>[牵手]</item>
+        <item>[跳舞]</item>
+        <item>[游泳]</item>
+        <item>[圣诞老人]</item>
+        <item>[拳头]</item>
+        <item>[强]</item>
+        <item>[拍手]</item>
+        <item>[OK]</item>
+        <item>[弱]</item>
+        <item>[手掌]</item>
+
+
+        <item>[金奖]</item>
+        <item>[银奖]</item>
+        <item>[铜奖]</item>
+        <item>[红苹果]</item>
+        <item>[橘子]</item>
+        <item>[草莓]</item>
+        <item>[西瓜]</item>
+        <item>[西红柿]</item>
+        <item>[蛋糕]</item>
+        <item>[汉堡]</item>
+
+
+        <item>[薯条]</item>
+        <item>[冰淇淋]</item>
+        <item>[冰糖葫芦]</item>
+        <item>[礼物]</item>
+        <item>[热狗]</item>
+        <item>[足球]</item>
+        <item>[篮球]</item>
+        <item>[下雨]</item>
+        <item>[雨伞]</item>
+        <item>[USB花]</item>
+
+
+        <item>[向日葵模型]</item>
+        <item>[太阳花]</item>
+        <item>[向日葵]</item>
+        <item>[花]</item>
+        <item>[圣诞树]</item>
+        <item>[轿车]</item>
+        <item>[皇冠]</item>
+        <item>[火箭]</item>
+        <item>[放大镜]</item>
+        <item>[铃声]</item>
+
+
+        <item>[音乐]</item>
+        <item>[红领巾]</item>
+    </string-array>
+</resources>
